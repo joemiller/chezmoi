@@ -3,7 +3,7 @@ class Chezmoi < Formula
   homepage "https://github.com/twpayne/chezmoi"
   url "https://github.com/joemiller/chezmoi/releases/download/v0.0.2/chezmoi_0.0.2_darwin_amd64.tar.gz"
   version "0.0.2"
-  sha256 "0e2dd53c6109ce7df63e28c03be5a788fd12d85cc144d8a3c64b50b9b3443601"
+  sha256 "281bc0f97a0fea527bb56b469887de42848d9a35dc1bacd1e21ce5329f5bbe4f"
 
   def install
     bin.install "chezmoi"
